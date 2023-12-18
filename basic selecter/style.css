@@ -1,0 +1,183 @@
+/* .body{
+    background-color: navy;
+}
+
+#h1{
+    color: darkblue;
+    font-size: 18px;
+    background-color: yellow;
+}
+
+(
+#h2{
+    color: darkblue;
+    font-size: 18px;
+    background-color: yellow;
+}
+
+#h3{
+    color: darkblue;
+    font-size: 18px;
+    background-color: yellow;
+}
+
+#h4{
+    color: darkblue;
+    font-size: 18px;
+    background-color: yellow;
+}
+
+#p1{
+    color: darkred;
+    font-size: 15px;
+    background-color: cornsilk;
+}
+
+#p2{
+    color: darkred;
+    font-size: 15px;
+    background-color: cornsilk;
+}
+
+#p3{
+    color: darkred;
+    font-size: 15px;
+    background-color: cornsilk;
+}
+
+#p4{
+    color: darkred;
+    font-size: 15px;
+    background-color: cornsilk;
+} */
+
+/* body{
+    background-color: yellow;
+} */
+
+/* #bg{
+    background-image: url('1.jpg');
+} */
+
+/* #border{border-width: 5px;
+    border-style: solid;
+border-radius: 1px 20px;
+    border-color: blue;
+} */
+
+/* body{
+    border: 3px dashed black;
+} */
+
+/* #div1{
+    background-color: blueviolet;
+    height: 50%;
+    width: 70%;
+    min-height: ;
+    min-width: ;
+    max-height: ;
+    max-width: ;
+} */
+
+/* .div1{
+    border: 1px solid red;
+    padding: 25px 20px;
+}
+
+#margin{
+    /* margin: 50px;
+    width: 200px;
+    margin: auto; */
+
+/* #text{
+    width: 500px;
+    border: 1px solid black;
+    color: blueviolet;
+    text-align: justify;
+   text-decoration: underline;
+   text-transform: uppercase;
+   line-height: 20px;
+   text-indent: 50px;
+   letter-spacing: 1px;
+   word-spacing: 15px;
+   
+}
+
+img{
+    border: 1px solid navy;
+    vertical-align: middle;
+}
+
+#shadow{
+    font-size: 50px;
+    text-shadow: 5px 10px 5px red;
+} */
+
+/* a{
+    text-decoration: none;
+}
+
+a:link{
+    color: blue;
+}
+a:visited{
+     color: yellow;
+}
+a:hover{
+    color: brown;
+}
+a:active{
+    color: green;
+} */
+
+/* h1{
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 900;
+}
+
+p{
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 900;
+    font-size: larger;
+} */
+
+/* html{
+    font-size: 15px;
+}
+#parent{
+    border: 1px solid red;
+    height: 50vh;
+    width: 60vw;
+    font-size: 10vw;
+}
+#daughter{
+    border: 1px solid blue;
+    width: 60%;
+    font-size: 2rem;
+} */
+
+/* div{
+    border: 1px solid blue;
+    width: 200px;
+    background-color: yellowgreen;
+    margin: 500px;
+    padding: 10px;
+    box-shadow: 5px 10px 5px 3px yellow, -5px -10px 5px 3px yellow;
+} */
+
+/* #color-box{
+    background-color: gold;
+    height: 200px;
+    width: 500px;
+    margin: -100px;
+}
+
+#red-box{
+    background-color: red;
+    height: 300px;
+    width: 200px;
+} */
+
+img{
+    filter: invert(100%)
+}
